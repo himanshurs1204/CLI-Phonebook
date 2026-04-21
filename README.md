@@ -98,9 +98,9 @@ After running `node index.js`, you'll see a menu:
 
 _Add your application screenshots here_
 
-| Main Menu    | Add Contact    | View Contacts    |
-| ------------ | -------------- | ---------------- |
-| ./Screenshots/ss1.png | ./Screenshots/ss2.png | ![View Contacts] |
+| Main Menu | Add Contact | View Contacts |
+|----------|------------|--------------|
+| ![Main Menu](./Screenshots/ss1.png) | ![Add Contact](./Screenshots/ss2.png) | ![View Contacts](./Screenshots/ss3.png) |
 
 
 ## Key Features
