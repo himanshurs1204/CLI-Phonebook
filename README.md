@@ -1,6 +1,6 @@
 # 📱 Phonebook CLI Application
 
-A professional CLI-based Phonebook application built with Node.js core modules. Demonstrates proper backend architecture with layered design, separation of concerns, and functional programming paradigm.
+A CLI-based Phonebook application built with JavScript (Node.Js runtime) and Node core modules.
 
 ## Features
 
@@ -25,7 +25,7 @@ A professional CLI-based Phonebook application built with Node.js core modules. 
 cd CLI-Phonebook
 
 # Run the application
-node index.js
+node start
 ```
 
 The application will start and display the main menu.
@@ -100,7 +100,7 @@ _Add your application screenshots here_
 
 | Main Menu | Add Contact | View Contacts |
 |----------|------------|--------------|
-| ![Main Menu](./Screenshots/ss1.png) | ![Add Contact](./Screenshots/ss2.png) | ![View Contacts](./Screenshots/ss3.png) |
+| ![Main Menu](./Screenshots/menu.png) | ![Add Contact](./Screenshots/add_Contact.png) | ![View Contacts](./Screenshots/view_contact%20.png) |
 
 
 ## Key Features
@@ -112,60 +112,13 @@ _Add your application screenshots here_
 - ✅ **Error Handling** - User-friendly error messages
 - ✅ **Professional Architecture** - Layered design for scalability
 
-## Functional Programming
 
-The application uses functional programming with:
-
-- Factory functions instead of classes
-- Closures for private state management
-- Pure utility functions
-- No `this` binding complexity
-
-## Design Patterns Used
-
-- **3-Layer Architecture** - Separation of concerns
-- **Service Pattern** - Business logic encapsulation
-- **Repository Pattern** - Data abstraction
-- **Factory Pattern** - Object creation
-- **Module Pattern** - Code organization
 
 ## Requirements Met
 
 ✅ CRUD Operations (Create, Read, Update, Delete)
 ✅ CLI-based user interface
 ✅ JSON file storage
-✅ Professional folder structure
-✅ Layered architecture
-✅ Separation of concerns
-✅ Functional programming paradigm
-✅ No external npm packages
+✅ No backend framework used
 ✅ Node.js core modules only
 
-## Future Enhancements
-
-This architecture supports easy extensions:
-
-- Add REST API layer without changing services
-- Migrate from JSON to database by updating FileStorage
-- Add authentication/authorization
-- Export/import contacts
-- Search optimization with indexing
-
-## Learning Outcomes
-
-By studying this codebase, you learn:
-
-- Layered architecture patterns
-- Separation of concerns principle
-- SOLID design principles
-- Functional programming in JavaScript
-- Service-oriented design
-- Professional code organization
-
-## License
-
-This project is for educational purposes.
-
----
-
-**Built with professional backend fundamentals** 🚀

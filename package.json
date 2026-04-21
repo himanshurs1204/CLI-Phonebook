@@ -1,12 +1,7 @@
 {
   "name": "cli-phonebook",
   "version": "1.0.0",
-  "description": "Professional CLI-based Phonebook application demonstrating strong backend fundamentals with layered architecture",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "dev": "node index.js"
-  },
+  "description": "CLI-based Phonebook application demonstrating strong backend fundamentals with layered architecture",
   "keywords": [
     "cli",
     "phonebook",
@@ -14,8 +9,22 @@
     "nodejs",
     "layered-architecture"
   ],
-  "author": "Backend Developer",
+  "homepage": "https://github.com/himanshurs1204/CLI-Phonebook#readme",
+  "bugs": {
+    "url": "https://github.com/himanshurs1204/CLI-Phonebook/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshurs1204/CLI-Phonebook.git"
+  },
   "license": "MIT",
+  "author": "Backend Developer",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
   "engines": {
     "node": ">=12.0.0"
   }
