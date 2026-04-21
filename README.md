@@ -89,9 +89,9 @@ After running `node index.js`, you'll see a menu:
 **Example Flow:**
 
 1. Select option 1 to add a contact
-2. Enter name: "John Doe"
-3. Enter phone: "9876543210"
-4. Enter email: "john@example.com"
+2. Enter name: "Demo User"
+3. Enter phone: "1234567890"
+4. Enter email: "demo@example.com"
 5. Contact saved! View it with option 2
 
 ## Screenshots
@@ -116,10 +116,11 @@ _Add your application screenshots here_
 
 ## Requirements Met
 
-✅ CRUD Operations (Create, Read, Update, Delete)
-✅ CLI-based user interface
-✅ JSON file storage
-✅ No backend framework used
-✅ Node.js core modules only
+- ✅ CRUD Operations (Create, Read, Update, Delete)
+- ✅ CLI-based user interface
+- ✅ JSON file storage
+- ✅ No backend framework used
+- ✅ Node.js core modules only
 
-## Made by Himanshu Suryawanshi
+---
+Made with ❤️ by Himanshu Suyawanshi
