@@ -1,0 +1,22 @@
+{
+  "name": "cli-phonebook",
+  "version": "1.0.0",
+  "description": "Professional CLI-based Phonebook application demonstrating strong backend fundamentals with layered architecture",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "cli",
+    "phonebook",
+    "backend",
+    "nodejs",
+    "layered-architecture"
+  ],
+  "author": "Backend Developer",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
