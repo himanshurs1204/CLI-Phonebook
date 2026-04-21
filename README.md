@@ -100,7 +100,7 @@ _Add your application screenshots here_
 
 | Main Menu    | Add Contact    | View Contacts    |
 | ------------ | -------------- | ---------------- |
-| "./Screenshots/ss1.png" | "./Screenshots/ss2.png" | ![View Contacts] |
+| ./Screenshots/ss1.png | ./Screenshots/ss2.png | ![View Contacts] |
 
 
 ## Key Features
